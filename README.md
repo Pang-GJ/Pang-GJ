@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Pang-GJ)  
 
 ## 🧐 About
-- 🔭 I’m currently studying on Harbin Institute of Technology (Weihai).
+- 🔭 I’m currently studying in Harbin Institute of Technology (Weihai).
 - 🌱 I’m currently learning C++ | Linux system programing | Network programing | DL | RL.
 - 👨‍💻  My Blog ⚡https://www.2030999.xyz
 - 👯 I’m looking to collaborate on C++ or Linux programing Project
