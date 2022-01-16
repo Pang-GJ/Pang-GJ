@@ -18,6 +18,7 @@
 
 ### Tools I work upon : 🛠
 
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/LLVM-blue?style=for-the-badge&logo=LLVM&logoColor=white&color=black"> <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=Arch-Linux&logoColor=white">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pang-GJ&show_icons=true&hide=contribs,prs&include_all_commits=true&show_owner=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pang-GJ)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pang-GJ&show_icons=true&hide=contribs,prs&show_owner=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pang-GJ&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&card_width=495)   
