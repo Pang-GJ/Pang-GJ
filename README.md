@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pgj666999@gmail.com | 2362421192@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pang-GJ&show_icons=true&hide=contribs,prs&include_all_commits=true&show_owner=true)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pang-GJ)   
