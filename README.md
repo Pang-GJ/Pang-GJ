@@ -1,6 +1,6 @@
 # std::cout <<"Hello!" << std::endl; <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [**Pang-GJ**](https://github.com/Pang-GJ). **An EE student 👨‍💻 who is passionate about C++ and open source.**
+𝗜'𝗺 [**Pang-GJ**](https://github.com/Pang-GJ). **An EE student 👨‍💻 who is passionate about C++.**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=2362421192@qq.com)](2362421192@qq.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/101024153)](https://space.bilibili.com/101024153)
@@ -10,12 +10,11 @@
 
 ## 🧐 About
 - 🔭 I’m currently studying in Harbin Institute of Technology (Weihai).
-- 🌱 I’m currently learning C++ | Linux system programing | Network programing | DL | RL.
+- 🌱 I’m currently learning Distributed Systems | Database | OS lab like xv6 | Linux system programming.
 - 👨‍💻  My Blog ⚡https://www.2030999.xyz
-- 👯 I’m looking to collaborate on C++ or Linux programing Project
-- 📫 How to reach me: pgj666999@gmail.com | 2362421192@qq.com
-- 😄 Pronouns: GJ | Fish
-- ⚡ Fun fact: It's hard for me to learn EE.
+- 👯 I’m looking to collaborate on C++ or Distributed Systems Project
+- 📫 How to reach me: pgj666999@gmail.com | 2362421192@qq.com  
+- ⚡ Fun fact: I have a nickname called "fish"
 
 ### Tools I work upon : 🛠
 
