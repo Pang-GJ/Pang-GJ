@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Distributed Systems | Database | OS lab like xv6 | Linux system programming.
 - 👨‍💻  My Blog ⚡https://www.2030999.xyz
 - 👯 I’m looking to collaborate on C++ or Distributed Systems Project
-- 📫 How to reach me: pgj666999@gmail.com | 2362421192@qq.com  
+- 📫 How to reach me: pgj666999@gmail.com | im.pgj@foxmail.com  
 - ⚡ Fun fact: I have a nickname called "fish"
 
 ### Tools I work upon : 🛠
