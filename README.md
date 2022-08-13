@@ -2,7 +2,7 @@
 
 𝗜'𝗺 [**Pang-GJ**](https://github.com/Pang-GJ). **An EE student 👨‍💻 who is passionate about C++.**
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=im.pgj@foxmail.com)](im.pgj@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=2362421192@qq.com)](im.pgj@foxmail.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/101024153)](https://space.bilibili.com/101024153)
 [![Zhihu Badge](https://img.shields.io/badge/-Zhihu-1b8ee4?style=flat-square&logo=Zhihu&logoColor=white&link=https://www.zhihu.com/people/nu-li-zhong-de-jian-ge)](https://www.zhihu.com/people/nu-li-zhong-de-jian-ge)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pang-GJ)](https://github.com/Pang-GJ)
