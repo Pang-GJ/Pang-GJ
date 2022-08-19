@@ -30,4 +30,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [计算机网络之PPP协议](https://www.2030999.xyz/article/8323b868.html)
+- [计算机网络之可靠传输](https://www.2030999.xyz/article/3ca5cb66.html)
+- [计算机网络之数据链路层概述](https://www.2030999.xyz/article/f725aebb.html)
+- [计算机网络之物理层](https://www.2030999.xyz/article/18784b9d.html)
+- [计算机网络之概述](https://www.2030999.xyz/article/6c34ca22.html)
 <!-- BLOG-POST-LIST:END -->
