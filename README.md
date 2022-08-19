@@ -26,4 +26,8 @@
 -->
 
 ### Coding in this week
-![WakaTime](/metrics.plugin.wakatime.svg)  
+![WakaTime](/metrics.plugin.wakatime.svg)   
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
