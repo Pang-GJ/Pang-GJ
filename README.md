@@ -24,3 +24,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pang-GJ&show_icons=true&hide=contribs,prs&show_owner=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pang-GJ&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&card_width=495)   
 -->
+
+![WakaTime](/metrics.plugin.wakatime.svg)
