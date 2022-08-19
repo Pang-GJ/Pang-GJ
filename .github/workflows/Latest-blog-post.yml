@@ -15,5 +15,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.2030999.xyz/atom.xml"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
-          date_format: "mmm d, yyyy"
