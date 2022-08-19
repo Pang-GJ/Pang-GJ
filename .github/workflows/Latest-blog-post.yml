@@ -15,3 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.2030999.xyz/atom.xml"
+          date_format: "mmm d, yyyy"
