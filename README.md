@@ -25,4 +25,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pang-GJ&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19&card_width=495)   
 -->
 
-![WakaTime](/metrics.plugin.wakatime.svg)
+![WakaTime](/metrics.plugin.wakatime.svg)  
+### Recently Posts
+![BlogRSS](/metrics.plugin.rss.svg)
