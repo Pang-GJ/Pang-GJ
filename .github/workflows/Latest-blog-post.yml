@@ -14,4 +14,4 @@ jobs:
       - name: Pull in rss posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.2030999.xyz/atom.xml"
+          feed_list: "http://39.98.115.99/atom.xml"
