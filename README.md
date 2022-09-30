@@ -30,9 +30,5 @@
 
 # Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CMU15-445 lec3 数据库存储 I](https://www.2030999.xyz/article/cmu15445lec3.html)
-- [下一阶段学习规划](https://www.2030999.xyz/article/abbrlink-zi-ji-tian.html)
-- [计算机网络之PPP协议](https://www.2030999.xyz/article/8323b868.html)
-- [计算机网络之可靠传输](https://www.2030999.xyz/article/3ca5cb66.html)
-- [计算机网络之数据链路层概述](https://www.2030999.xyz/article/f725aebb.html)
+- [在VSCode中使用VIM](http://39.98.115.99/post/1)
 <!-- BLOG-POST-LIST:END -->
