@@ -12,13 +12,26 @@
 - 🔭 I’m currently studying in Harbin Institute of Technology (Weihai).
 - 🌱 I’m currently learning Distributed Systems | Database | OS lab like xv6 | Linux system programming.
 - 👨‍💻  My Blog ⚡[TODO: update...]
-- 👯 I’m looking to collaborate on Distributed Systems or Database Project
+- 👯 I’m looking to contribute on Distributed Systems or Database Project
 - 📫 How to reach me: pgj666999@gmail.com | im.pgj@foxmail.com  
 - ⚡ Code for fun!!!
 
 ### Tools I work upon : 🛠
 
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/golang%20-%2314354C.svg?&style=for-the-badge&logo=golang&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/LLVM-blue?style=for-the-badge&logo=LLVM&logoColor=white&color=black"> <img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=Arch-Linux&logoColor=white">
+<p align="left">
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="Golang" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/rust.svg" alt="Rust" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/archlinux.svg" alt="Arch Linux" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/llvm.svg" alt="LLVM" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/alacritty.svg" alt="alacritty" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" alt="clion" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/neovim.svg" alt="neovim" width="40" height="40"/>
+</p>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pang-GJ&show_icons=true&hide=contribs,prs&show_owner=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19)  
