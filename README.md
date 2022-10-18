@@ -43,5 +43,5 @@
 
 # Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [在VSCode中使用VIM](http://39.98.115.99/post/1)
+- [在VSCode中使用VIM](https://www.wabywabo.com/post/1)
 <!-- BLOG-POST-LIST:END -->
