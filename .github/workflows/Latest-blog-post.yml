@@ -14,4 +14,4 @@ jobs:
       - name: Pull in rss posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://39.98.115.99/feed.xml"
+          feed_list: "https://www.wabywabo.com/feed.xml"
