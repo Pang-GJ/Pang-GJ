@@ -39,7 +39,7 @@
 -->
 
 ### Coding in this week
-![WakaTime](/metrics.plugin.wakatime.svg)   
+[//]: ![WakaTime](/metrics.plugin.wakatime.svg)   
 
 # Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
