@@ -43,5 +43,6 @@
 
 # Recently Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [公告：博客内容正在迁移中](https://wabywabo.com/post/2)
 - [在VSCode中使用VIM](https://wabywabo.com/post/1)
 <!-- BLOG-POST-LIST:END -->
