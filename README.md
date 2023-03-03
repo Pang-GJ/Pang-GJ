@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Distributed Systems | Database | OS lab like xv6 | Linux system programming.
 - 👨‍💻  My Blog ⚡ https://www.wabywabo.com
 - 👯 I’m looking to contribute on Distributed Systems or Database Project
-- 📫 How to reach me: pgj666999@gmail.com | im.pgj@foxmail.com  
+- 📫 How to reach me: im.pgj@foxmail.com | pgj666999@gmail.com
 - ⚡ Code for fun!!!
 
 ### Tools I work upon : 🛠
