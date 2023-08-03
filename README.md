@@ -10,11 +10,12 @@
 
 ## 🧐 About
 - 🔭 I’m currently studying in Harbin Institute of Technology (Weihai).
-- 🌱 I’m currently learning Distributed Systems | Raft | Machine Learning System.
+- 🌱 I’m currently learning Distributed Systems | Raft | Machine Learning System | LLM.
 - 👨‍💻  My Blog ⚡ https://www.wabywabo.com
 - 👯 I’m looking to contribute on ML infra Project
 - 📫 How to reach me: im.pgj@foxmail.com | pgj666999@gmail.com
 - ⚡ Code for fun!!!
+- currently intern @pdd, ex-intern @oneflow, ex-intern @netease
 
 ### Tools I work upon : 🛠
 
