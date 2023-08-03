@@ -10,9 +10,9 @@
 
 ## 🧐 About
 - 🔭 I’m currently studying in Harbin Institute of Technology (Weihai).
-- 🌱 I’m currently learning Distributed Systems | Database | OS lab like xv6 | Linux system programming.
+- 🌱 I’m currently learning Distributed Systems | Raft | Machine Learning System.
 - 👨‍💻  My Blog ⚡ https://www.wabywabo.com
-- 👯 I’m looking to contribute on Distributed Systems or Database Project
+- 👯 I’m looking to contribute on ML infra Project
 - 📫 How to reach me: im.pgj@foxmail.com | pgj666999@gmail.com
 - ⚡ Code for fun!!!
 
